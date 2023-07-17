@@ -19,7 +19,6 @@ if (figma.editorType === "figma") {
     }
   }
 
-
   // @ts-ignore
   function objectSwitchTheme(selInstance) {
     let main = selInstance.mainComponent;
